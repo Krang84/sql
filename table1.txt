@@ -7,7 +7,7 @@
     birthday DATE,
     profession VARCHAR(50),
     location VARCHAR(50),
-    statuss VARCHAR(20),
+    status VARCHAR(20),
     interets VARCHAR(100),
     seeking VARCHAR(100)
     );
