@@ -1,0 +1,5 @@
+CREATE TABLE my_contacts2 
+(
+last_name VARCHAR(30) NOT NULL,
+first_name VARCHAR(20) NOT NULL
+);
